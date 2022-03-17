@@ -1,3 +1,6 @@
 .venv
 practical-natural-language-processing-a-comprehensive-guide-to-building-real-world-nlp-systems.pdf
 GoogleNews-vectors-negative300.bin
+data/dbpedia_test.csv
+data/dbpedia_train.csv
+practical-nlp-code
